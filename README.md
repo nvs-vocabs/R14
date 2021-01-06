@@ -1,2 +1,4 @@
 # R14
-Technical parameter names
+Argo technical parameter names
+
+This collection is not yet available on the NVS.
