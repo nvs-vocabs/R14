@@ -7,4 +7,7 @@ This vocabulary is available from the NERC Vocabulary Server (NVS) VocPrez site 
 
 * [R14 VocPrez search result](https://vocab.nerc.ac.uk/search_nvs/R14/)
 
-Comments, requests and suggestions can be made using [regular issues](https://github.com/nvs-vocabs/R14/issues/new) in this repository or by email to vocab.services(-at-bodc.ac.uk).
+## Request for new terms and ways to contribute
+- Requests for a new R14 can be submitted as [regular issues](https://github.com/nvs-vocabs/R14/issues) in this repository or emailed to vocab.services-at-bodc.ac.uk.
+
+- Reporting errors or suggestions for improving content can be also be submitted as above. 
